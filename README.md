@@ -1,4 +1,4 @@
-<img width="1919" height="1097" alt="image" src="https://github.com/user-attachments/assets/469ae03e-b532-4378-bcaf-eb63b2905c95" /># Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+# Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 # Register Number :212224240050
 # Date : 24-04-2026
 # AIM :
